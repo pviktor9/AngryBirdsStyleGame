@@ -1,29 +1,5 @@
 # ECS189L - Gameplay Programming
 
-## CRN for Spring 2021
-40582
-
-# Syllabus
-## Basic Information
-
-### Instructor
-Dr. Joshua A. McCoy, Assistant Professor  
-Computer Science and Cinema and Digital Media Departments  
-Email: jamccoy at ucdavis dot edu  
-Office: 3033 Kemper Hall  
-Office Hours: *tentative* Tuesdays at 2:00 PM    
-http://joshmccoy.com  
-https://faculty.engineering.ucdavis.edu/mccoy/  
-https://www.twitter.com/deftjams  
-
-### TA
-See Canvas.
-
-### Course
-Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 10:00-10:50 AM  
-Duscussion Meeting Time: Wednesdays at 11:00-11:50 AM  
-Final Examination Period: Wednesday, June 9th at 6:00-8:00 PM  
-
 ## Course Description
 
 This course is about the design and development of nuanced and highly-contextual gameplay systems built on the foundation of traditional game engines. Technical game development has many facets including graphics engines, sound engines, networking, and animation system. Many of these facets are now well-established and are provided for in modern game engines. The focus of this course is on the remaining areas that are difficult to abstract and engineer into game engines as they are depend on the genre or details of a specific game design.
